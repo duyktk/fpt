@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Ass_KhuongTranKhangDuy_FA22">
+  <Resource name="Duyktk" auth="Container" type="javax.sql.DataSource"
+            username="sa" password="12345" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" url="jdbc:sqlserver://localhost:1433;databaseName=DuyKTK_FA22" />
+</Context>
